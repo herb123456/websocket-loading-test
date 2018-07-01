@@ -2,3 +2,4 @@ websocketClient
 .idea
 .vscode
 client
+vendor
